@@ -1,0 +1,15 @@
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\bin\Debug\net6.0\LoopCheker.exe
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\bin\Debug\net6.0\LoopCheker.deps.json
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\bin\Debug\net6.0\LoopCheker.runtimeconfig.json
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\bin\Debug\net6.0\LoopCheker.dll
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\bin\Debug\net6.0\LoopCheker.pdb
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.csproj.AssemblyReference.cache
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.AssemblyInfoInputs.cache
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.AssemblyInfo.cs
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.csproj.CoreCompileInputs.cache
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.dll
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\refint\LoopCheker.dll
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.pdb
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\LoopCheker.genruntimeconfig.cache
+C:\Users\Cosmo\source\repos\LoopCheker\LoopCheker\obj\Debug\net6.0\ref\LoopCheker.dll
